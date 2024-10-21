@@ -1,12 +1,15 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ngud-119.ngud-119" />
+
+
+🏆 GitHub Trophies
+<hr/>
 <div>
 <p align="center" dir="auto">
-  <a align="center" dir="auto" target="_blank" rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/b1530825807a85fe322ca4c3919d0d2b81516bb3909a69bd3f5349ebf26d3b03/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6361726f6c626172626f7361313031267468656d653d64726163756c6126726f773d32266e6f2d62673d7472756526636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135"><img height="180px" src="https://github-profile-trophy.vercel.app/?username=ngud-119&amp;theme=dracula&amp;row=1&amp;no-bg=true&amp;column=9
-  &amp;margin-w=10&amp;margin-h=10" style="max-width: 100%;"></a>
+  <a align="center" dir="auto" target="_blank" rel="noopener noreferrer nofollow"  href="https://camo.githubusercontent.com/b1530825807a85fe322ca4c3919d0d2b81516bb3909a69bd3f5349ebf26d3b03/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6361726f6c626172626f7361313031267468656d653d64726163756c6126726f773d32266e6f2d62673d7472756526636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135"><img height="180px" src="https://github-profile-trophy.vercel.app/?username=ngud-119&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=5
+  &amp;margin-w=10&amp;margin-h=10" style="max-width: 120%;"></a>
   </p>
 </div>
-<br />
+<hr/>
 <div class="row">
 <div class="col-6">
 <p><img align="right" width="50%" height="100%" src="2.gif" alt="NGUD" /></p>
