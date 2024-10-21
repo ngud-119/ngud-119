@@ -28,6 +28,8 @@ Thank you very much..</p>
 <h2 font-weight="bold">Process</h2>
 <img src="machine.gif">
 
+![Snake animation](https://raw.githubusercontent.com/ngud-119/ngud-119/output/github-contribution-grid-snake-dark.svg)
+
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
 <!-- <img src="skill.png"> -->
 <table align="center">
