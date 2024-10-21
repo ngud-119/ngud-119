@@ -5,7 +5,7 @@
 🏆 GitHub Trophies
 <hr/>
 <p align="center">
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ngud-119&theme=onedark" alt="mjtechworks" /></a> </p>
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ngud-119&theme=flat" alt="ngud-0119" /></a> </p>
 </p>
 <hr/>
 </div>
