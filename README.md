@@ -3,10 +3,7 @@
 🏆 GitHub Trophies
 <hr/>
 <div>
-<p align="center" dir="auto">
-  <a align="center" dir="auto" target="_blank" rel="noopener noreferrer nofollow" ><img height="180px" src="https://github-profile-trophy.vercel.app/?username=ngud-119&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=5
-  &amp;margin-w=10&amp;margin-h=10" style="max-width: 120%;"></a>
-  </p>
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ngud-119&theme=onedark" alt="mjtechworks" /></a> </p>
 </div>
 <hr/>
 <div class="row">
