@@ -1,11 +1,14 @@
+<div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ngud-119.ngud-119" />
-
+</div>
+<div>
 🏆 GitHub Trophies
 <hr/>
-<div>
+<p align="center">
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ngud-119&theme=onedark" alt="mjtechworks" /></a> </p>
-</div>
+</p>
 <hr/>
+</div>
 <div class="row">
 <div class="col-6">
 <p><img align="right" width="50%" height="100%" src="2.gif" alt="NGUD" /></p>
@@ -25,13 +28,6 @@ Thank you very much..</p>
 <h2 font-weight="bold">Process</h2>
 <img src="machine.gif">
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ngud-119/ngud-119/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
 <!-- <img src="skill.png"> -->
 <table align="center">
