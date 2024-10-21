@@ -4,8 +4,8 @@
 <div>
 🏆 GitHub Trophies
 <hr/>
-<p align="center">
-<p align="left"> <a href=""><img src="https://github-trophies.vercel.app/?username=ngud-119$row=3&column=3&margin-w=15&margin-h=15" alt="ngud-0119" /></a> </p>
+
+<p align="center"> <a href=""><img src="https://github-trophies.vercel.app/?username=ngud-119" alt="ngud-0119" /></a> </p>
 </p>
 <hr/>
 </div>
