@@ -2,11 +2,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ngud-119.ngud-119" />
 </div>
 <div>
-🏆 GitHub Trophies
-<hr/>
+<h2>🏆 GitHub Trophies</h2>
 <p align="center"> <a href=""><img src="https://github-trophies.vercel.app/?username=ngud-119" alt="ngud-0119" /></a> </p>
 </p>
-<hr/>
 </div>
 <div class="row">
 <div class="col-6">
@@ -31,6 +29,7 @@
 
 <h2 font-weight="bold">Process</h2>
 <img src="machine.gif">
+
 
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
