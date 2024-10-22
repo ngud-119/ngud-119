@@ -4,7 +4,6 @@
 <div>
 🏆 GitHub Trophies
 <hr/>
-
 <p align="center"> <a href=""><img src="https://github-trophies.vercel.app/?username=ngud-119" alt="ngud-0119" /></a> </p>
 </p>
 <hr/>
@@ -14,13 +13,18 @@
 <p><img align="right" width="50%" height="100%" src="2.gif" alt="NGUD" /></p>
 </div>
 <div class="col-6">
-<p width="50%">A dedicated and motivated full stack software engineer with having specialized skillset in frontend development. <br/>I have great experience in building industrial web /APP developments from the ground-up to production in different industries including healthcare, internet marketing, entertainment, live streaming and blockchain/web3.
-<br/>My favorite development toolkit includes JavaScript, Typescript, React, Next.js, Tailwind CSS and Spring boot/AWS Lambda (for the backend). The Deadheads and Jouwfactoring in my portfolio are dapp and finance that I built recently using these frameworks.
-<br/>I also have special passion in OpenAI/ChatGPT & GPT variations and other AI services and I have great experience in building intelligent platforms by integrating the services.
-<br/>I ensure the highest quality of the product by following the best convention and practices and by implementing modern-looking user interfaces and the best user experiences.
-<br/>I have been working in remote teams for the last 8 years and I am a good team player.
-<br/>I am good at balancing quality and productivity.
-Thank you very much..</p>
+<p width="50%">🖥 Full-Stack Development: I build robust, scalable applications using the latest technologies such as React, Angular, Vue.js, JavaScript, Node.js, Java, .NET, Python, PHP, Unity, Ruby, and Go.
+
+📱 Mobile App Development: I create user-friendly and responsive mobile apps with Kotlin, Swift, React Native, and Flutter.
+
+💭Cloud Solutions: Expertise in Azure, AWS, and GCP, providing reliable and scalable cloud infrastructure and applications.
+
+✏️ UI/UX Design: I craft intuitive and engaging user interfaces that prioritize user experience and aesthetics.
+
+💡 IT Consulting: Offering strategic IT consulting to help you navigate complex technology landscapes and achieve your business objectives.
+
+🗃 Management (Jira, Trello, Microsoft Teams, Slack, MS Project, VersionOne, Mantis, Trac, Redmine, Zoom, Replicon)
+</p>
 </div>
 </div>
 
