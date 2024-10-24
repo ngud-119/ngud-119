@@ -19,7 +19,7 @@
 
 ✏️ UI/UX Design: I craft intuitive and engaging user interfaces that prioritize user experience and aesthetics.
 
-💡 IT Consulting: Offering strategic IT consulting to help you navigate complex technology landscapes and achieve your business objectives.
+🧠 AI: Also I have good understanding of Deep Learning, Machine learning, OpenAI, ChatGPT, LLM, NLP, RAG etc
 
 🗃 Management (Jira, Trello, Microsoft Teams, Slack, MS Project, VersionOne, Mantis, Trac, Redmine, Zoom, Replicon)
 </p>
